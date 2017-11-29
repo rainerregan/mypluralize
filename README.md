@@ -15,6 +15,7 @@ var hello = require('helloworldnodejs');
 hello.printMsg();
 ```
 this code function is for call the printMsg method in my module.
+
 8. Back to your CMD, type `node hello.js` , it'll run the code.
 9. You will see the hello world words
 
