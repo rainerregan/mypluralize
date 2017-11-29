@@ -5,7 +5,7 @@ in my code, i write console.log() method,
 
 # Function of console.log() method.
 
-1. console.log() method used for printing some text in the console.
+console.log() method used for printing some text in the console.
 
 example:
 
@@ -22,11 +22,12 @@ when i write code like this:
 
 # Writing with string variable
 
-2. You can change the words with string too.
+You can change the words with string too.
 
 ex:
 ``
 var name = Rainer;
+
 console.log('Hello ' + name);
 ``
 
