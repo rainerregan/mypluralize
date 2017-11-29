@@ -1,6 +1,6 @@
 {
-  "name": "google",
-  "version": "1.0.0",
+  "name": "helloworldnodejs",
+  "version": "0.1.3",
   "description": "write hello world in console",
   "main": "hello.js",
   "scripts": {
