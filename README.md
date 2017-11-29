@@ -58,7 +58,7 @@ hello.printMsg();
 ```
 ![Imgur](https://i.imgur.com/g2kWKK8.png)
 8. Back to your CMD, type `node hello.js` , it'll run the code.
-[Imgur](https://i.imgur.com/4Kw8RrQ.png)
+![Imgur](https://i.imgur.com/4Kw8RrQ.png)
 9. YEAY, you will see the hello world words
 
 Thats all how to run my code..
