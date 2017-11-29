@@ -25,10 +25,11 @@ when i write code like this:
 You can change the words with string too.
 
 ex:
-``
+```
 var name = Rainer;
+
 console.log('Hello ' + name);
-``
+```
 
 and run cmd again,
 you will see "Hello Rainer" in your console.
