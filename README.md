@@ -27,7 +27,6 @@ You can change the words with string too.
 ex:
 ``
 var name = Rainer;
-
 console.log('Hello ' + name);
 ``
 
