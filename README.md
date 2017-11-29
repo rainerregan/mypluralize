@@ -45,7 +45,7 @@ i'll show you how to run my code in your computer using command prompt.
 2. After you done installing node.js, Create a folder in your desktop,
 3. Copy the directory address and open cmd,
 4. Type `cd ` and the directory you've copied.
-5. Type `npm install helloworldnodejs`
+5. Type `npm install helloworldnodejs` to install my node module.
 6. After the download is finished, create a file named hello.js in your root folder.
 7. Write the code below, and save it:
 ```
@@ -53,6 +53,7 @@ var hello = require('helloworldnodejs');
 
 hello.printMsg();
 ```
+this code function is for call the printMsg method in my module.
 8. Back to your CMD, type `node hello.js` , it'll run the code.
 9. You will see the hello world words
 
