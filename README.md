@@ -2,7 +2,7 @@
 `npm install helloworldnodejs`
 
 # Methods
-###printMsg()
+### printMsg()
 
 it will print the hello world message on the console.
 
