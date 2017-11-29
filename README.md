@@ -1,3 +1,10 @@
+# Installation
+`npm install helloworldnodejs`
+
+# Methods
+1. printMsg()
+it will print the hello world message on the console.
+
 # How to run my code:
 
 i'll show you how to run my code in your computer using command prompt.
