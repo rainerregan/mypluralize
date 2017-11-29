@@ -38,8 +38,15 @@ Thats's all for the `console.log()` method.
 
 Thanks for reviewing.
 
+# How to run my code:
+
+i'll show you how to run my code in your computer using command prompt.
+
+1. You have to install node.js first. if you haven't, go to [Here](https://nodejs.org/en/)
+2. After you done installing node.js, Create a folder in your desktop,
+3. Copy the directory address and open cmd,
+
+
 Regards.
-
 Rainer A. Regan.
-
 New Developer in the future :D.
