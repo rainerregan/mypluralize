@@ -1,0 +1,22 @@
+{
+  "name": "google",
+  "version": "1.0.0",
+  "description": "write hello world in console",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainerregan/mypluralize.git"
+  },
+  "author": "Rainer Regan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainerregan/mypluralize/issues"
+  },
+  "homepage": "https://github.com/rainerregan/mypluralize#readme",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  }
+}
