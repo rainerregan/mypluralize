@@ -1,4 +1,4 @@
-# mypluralize
+# Writing Hello World in console using node.js:
 Write Hello World in node.js
 
 in my code, i write console.log() method,
